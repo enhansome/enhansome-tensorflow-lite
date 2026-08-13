@@ -1,0 +1,355 @@
+{
+  "items": [
+    {
+      "description": "Here are some past feature annoucements of TensorFlow Lite:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hexagon delegate",
+          "description": "How to use the Hexagon Delegate to speed up model inference on mobile and edge devices. Also see blog post Accelerating TensorFlow Lite on Qualcomm Hexagon DSPs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:59:15Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 196986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Maker",
+          "description": "Create your custom image & text classification models easily in a few lines of code. See below the Icon Classifier for a tutorial by the community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T17:50:03Z",
+            "owner": "tensorflow",
+            "repo": "examples",
+            "stars": 8278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On-device training",
+          "description": "It is finally here! Currently limited to transfer learning for image classification only but it's a great start. See the official Android sample code and another one from the community (Blog | Android).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T17:50:03Z",
+            "owner": "tensorflow",
+            "repo": "examples",
+            "stars": 8278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Support Library",
+          "description": "Makes mobile development easier (Android sample code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T23:05:31Z",
+            "owner": "tensorflow",
+            "repo": "tflite-support",
+            "stars": 441
+          }
+        }
+      ],
+      "title": "Past announcements:"
+    },
+    {
+      "description": "Here are the TensorFlow Lite models with app / device implementations, and references. Note: pretrained TensorFlow Lite models from MediaPipe are included, which you can implement with or without MediaPipe.",
+      "items": [],
+      "title": "Models with samples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Computer vision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Classification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Style Transfer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generative"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Post estimation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Speech"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recommendation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Model zoo"
+    },
+    {
+      "description": "These are TensorFlow models that could be converted to .tflite and then implemented in apps and things:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow models",
+          "description": "Official TensorFlow models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:05:23Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow detection model zoo",
+          "description": "Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:05:23Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        }
+      ],
+      "title": "TensorFlow models"
+    },
+    {
+      "description": "ML Kit is a mobile SDK that brings Google's ML expertise to mobile developers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-10-01 ML Kit Translate demo",
+          "description": "A tutorial with material design Android (Kotlin) sample - recognize, identify Language and translate text from live camera with ML Kit for Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-12-08T13:57:28Z",
+            "owner": "android",
+            "repo": "codelab-mlkit-android",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-02-09 Flutter + MLKit: Business Card Mail Extractor",
+          "description": "A blog post with a Flutter sample code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-02-11T10:19:11Z",
+            "owner": "DaemonLoki",
+            "repo": "Business-Card-Mail-Extractor",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-02-08 From TensorFlow to ML Kit: Power your Android application with machine learning",
+          "description": "A talk with Android (Kotlin) sample code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-07T12:19:04Z",
+            "owner": "publicissapient-france",
+            "repo": "magritte",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "ML Kit examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MediaPipe",
+          "description": "A cross platform (mobile, desktop and Edge TPUs) AI pipeline by Google AI. (PM Ming Yong) | MediaPipe examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:50:21Z",
+            "owner": "google-ai-edge",
+            "repo": "mediapipe",
+            "stars": 36596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Lite Flutter Plugin",
+          "description": "Provides a dart API similar to the TensorFlow Lite Java API for accessing TensorFlow Lite interpreter and performing inference in flutter apps. tflite_flutter on pub.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-31T18:12:59Z",
+            "owner": "am15h",
+            "repo": "tflite_flutter_plugin",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "Plugins and SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Netron",
+          "description": "A tool for visualizing models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:54:00Z",
+            "owner": "lutzroeder",
+            "repo": "netron",
+            "stars": 33343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material design guidelines for ML",
+          "description": "How to design machine learning powered features. A good example: ML Kit Showcase App.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-04-12T08:28:59Z",
+            "owner": "FirebaseExtended",
+            "repo": "mlkit-material-android",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adventures in TensorFlow Lite",
+          "description": "A repository showing non-trivial conversion processes and general explorations in TensorFlow Lite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-23T13:21:12Z",
+            "owner": "sayakpaul",
+            "repo": "Adventures-in-TensorFlow-Lite",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Lite Examples - Android",
+          "description": "A repository refactors and rewrites all the TensorFlow Lite Android examples which are included in the TensorFlow official website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-09-29T08:37:11Z",
+            "owner": "dailystudio",
+            "repo": "tensorflow-lite-examples-android",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow-lite-kotlin-samples",
+          "description": "A collection of Tensorflow Lite Android example Apps in Kotlin, to show different kinds of kotlin implementation of the example apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-04-16T16:12:05Z",
+            "owner": "SunitRoy2703",
+            "repo": "Tensorflow-lite-kotlin-samples",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TFProfiler",
+          "description": "An Android-based app to profile TensorFlow Lite models and measure its performance on smartphone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-12-06T04:20:12Z",
+            "owner": "iglaweb",
+            "repo": "TFProfiler",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Helpful links"
+    },
+    {
+      "description": "Interested but not sure how to get started? Here are some learning resources that will help you whether you are a beginner or a practitioner in the field for a while.",
+      "items": [],
+      "title": "Learning resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:01.781Z",
+    "original_repository": "margaretmz/awesome-tensorflow-lite",
+    "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
+    "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
+    "enhanced_repository_description": null,
+    "title": "Awesome TensorFlow Lite with stars"
+  }
+}
