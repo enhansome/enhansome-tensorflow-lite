@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T01:50:54Z",
+            "last_commit": "2026-08-15T00:08:37Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197006
+            "stars": 197024
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-13T23:02:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660
+            "stars": 77654
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-13T23:02:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660
+            "stars": 77654
           }
         }
       ],
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-12T21:50:21Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36611
+            "stars": 36620
           }
         },
         {
@@ -259,10 +259,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T00:15:44Z",
+            "last_commit": "2026-08-14T18:06:40Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33345
+            "stars": 33351
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T01:54:17.849Z",
+    "last_updated": "2026-08-15T01:11:46.009Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
