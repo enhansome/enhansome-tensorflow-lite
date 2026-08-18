@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T23:16:28Z",
+            "last_commit": "2026-08-18T00:50:32Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197087
+            "stars": 196991
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-31T17:50:03Z",
+            "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8278
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-31T17:50:03Z",
+            "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8278
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-24T23:05:31Z",
+            "last_commit": "2026-08-17T22:52:56Z",
             "owner": "tensorflow",
             "repo": "tflite-support",
             "stars": 440
@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -225,10 +225,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:50:21Z",
+            "last_commit": "2026-08-17T21:11:06Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36633
+            "stars": 36641
           }
         },
         {
@@ -259,10 +259,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T16:17:23Z",
+            "last_commit": "2026-08-17T20:07:00Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33362
+            "stars": 33363
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:13:07.302Z",
+    "last_updated": "2026-08-18T01:11:27.828Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
