@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-19T01:07:04Z",
+            "last_commit": "2026-08-19T12:50:40Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197048
+            "stars": 197061
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141200054,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8279
+            "stars": 8278
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141200054,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8279
+            "stars": 8278
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268414080,
             "language": "C++",
             "last_commit": "2026-08-17T22:52:56Z",
             "owner": "tensorflow",
@@ -63,108 +67,47 @@
       "title": "Past announcements:"
     },
     {
-      "description": "Here are the TensorFlow Lite models with app / device implementations, and references. Note: pretrained TensorFlow Lite models from MediaPipe are included, which you can implement with or without MediaPipe.",
-      "items": [],
-      "title": "Models with samples"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Computer vision"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Classification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Detection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Segmentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Style Transfer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Generative"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Post estimation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Text"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Speech"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommendation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Game"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Model zoo"
-    },
-    {
-      "description": "These are TensorFlow models that could be converted to .tflite and then implemented in apps and things:",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "TensorFlow models",
-          "description": "Official TensorFlow models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
-            "owner": "tensorflow",
-            "repo": "models",
-            "stars": 77651
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tensorflow detection model zoo",
-          "description": "Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
-            "owner": "tensorflow",
-            "repo": "models",
-            "stars": 77651
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TensorFlow models",
+              "description": "Official TensorFlow models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:06:28Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tensorflow detection model zoo",
+              "description": "Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:06:28Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77651
+              }
+            }
+          ],
+          "description": "These are TensorFlow models that could be converted to .tflite and then implemented in apps and things:",
+          "node_type": "group",
+          "title": "TensorFlow models"
         }
       ],
-      "title": "TensorFlow models"
+      "title": "Model zoo"
     },
     {
       "description": "ML Kit is a mobile SDK that brings Google's ML expertise to mobile developers.",
@@ -176,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132662123,
             "language": "Kotlin",
             "last_commit": "2025-12-08T13:57:28Z",
             "owner": "android",
@@ -190,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167697181,
             "language": "Dart",
             "last_commit": "2019-02-11T10:19:11Z",
             "owner": "DaemonLoki",
@@ -204,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84998478,
             "language": "Python",
             "last_commit": "2019-02-07T12:19:04Z",
             "owner": "publicissapient-france",
@@ -215,7 +161,7 @@
       "title": "ML Kit examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -224,11 +170,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191820100,
             "language": "C++",
             "last_commit": "2026-08-18T21:11:48Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36656
+            "stars": 36663
           }
         },
         {
@@ -238,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239580195,
             "language": "Dart",
             "last_commit": "2026-05-31T18:12:59Z",
             "owner": "am15h",
@@ -249,7 +197,7 @@
       "title": "Plugins and SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -258,11 +206,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198539,
             "language": "JavaScript",
             "last_commit": "2026-08-18T12:11:10Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33361
+            "stars": 33367
           }
         },
         {
@@ -272,6 +221,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 183648846,
             "language": "Java",
             "last_commit": "2023-04-12T08:28:59Z",
             "owner": "FirebaseExtended",
@@ -286,6 +236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259780923,
             "language": "Jupyter Notebook",
             "last_commit": "2023-01-23T13:21:12Z",
             "owner": "sayakpaul",
@@ -300,6 +251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267263865,
             "language": "Kotlin",
             "last_commit": "2022-09-29T08:37:11Z",
             "owner": "dailystudio",
@@ -314,6 +266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405389854,
             "language": "Kotlin",
             "last_commit": "2022-04-16T16:12:05Z",
             "owner": "SunitRoy2703",
@@ -328,6 +281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297256320,
             "language": "Kotlin",
             "last_commit": "2021-12-06T04:20:12Z",
             "owner": "iglaweb",
@@ -337,16 +291,12 @@
         }
       ],
       "title": "Helpful links"
-    },
-    {
-      "description": "Interested but not sure how to get started? Here are some learning resources that will help you whether you are a beginner or a practitioner in the field for a while.",
-      "items": [],
-      "title": "Learning resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:12:22.363Z",
+    "last_updated": "2026-08-19T12:53:25.838Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
+    "original_repository_id": 237012805,
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
     "enhanced_repository_description": null,
