@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T00:50:32Z",
+            "last_commit": "2026-08-19T01:07:04Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 196991
+            "stars": 197048
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8278
+            "stars": 8279
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8278
+            "stars": 8279
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         }
       ],
@@ -225,10 +225,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T21:11:06Z",
+            "last_commit": "2026-08-18T21:11:48Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36641
+            "stars": 36656
           }
         },
         {
@@ -259,10 +259,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T20:07:00Z",
+            "last_commit": "2026-08-18T12:11:10Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33363
+            "stars": 33361
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:11:27.828Z",
+    "last_updated": "2026-08-19T01:12:22.363Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
