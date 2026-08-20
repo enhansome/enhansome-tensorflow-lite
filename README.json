@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-19T12:50:40Z",
+            "last_commit": "2026-08-20T01:01:22Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197061
+            "stars": 197068
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8278
+            "stars": 8279
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T06:51:09Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8278
+            "stars": 8279
           }
         },
         {
@@ -172,10 +172,10 @@
             "archived": false,
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-18T21:11:48Z",
+            "last_commit": "2026-08-19T18:55:51Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36663
+            "stars": 36666
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-18T12:11:10Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33367
+            "stars": 33369
           }
         },
         {
@@ -253,7 +253,7 @@
             "archived": false,
             "id": 267263865,
             "language": "Kotlin",
-            "last_commit": "2022-09-29T08:37:11Z",
+            "last_commit": "2026-08-19T15:07:24Z",
             "owner": "dailystudio",
             "repo": "tensorflow-lite-examples-android",
             "stars": 91
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:25.838Z",
+    "last_updated": "2026-08-20T01:11:28.424Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_id": 237012805,
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
