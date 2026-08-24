@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-23T18:16:01Z",
+            "last_commit": "2026-08-24T14:09:17Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197375
+            "stars": 197384
           }
         },
         {
@@ -67,8 +67,795 @@
       "title": "Past announcements:"
     },
     {
+      "description": "Here are the TensorFlow Lite models with app / device implementations, and references. Note: pretrained TensorFlow Lite models from MediaPipe are included, which you can implement with or without MediaPipe.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Classification",
+                  "description": "MobileNetV1 (download) Android | iOS | Raspberry Pi | Overview tensorflow.org",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Classification",
+                  "description": "MobileNetV2 Recognize Flowers on Android Codelab | Android TensorFlow team",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Classification",
+                  "description": "MobileNetV2 Skin Lesion Detection Android Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184006383,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-05-05T08:20:24Z",
+                    "owner": "AakashKumarNain",
+                    "repo": "skin_cancer_detection",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Classification",
+                  "description": "MobileNetV2 American Sign Language Detection | Colab Notebook | Android Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352993664,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-03-19T13:43:56Z",
+                    "owner": "sayannath",
+                    "repo": "American-Sign-Language-Detection",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Classification",
+                  "description": "CNN + Quantisation Aware Training Stone Paper Scissor Detection Colab Notebook | Flutter Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352993664,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-03-19T13:43:56Z",
+                    "owner": "sayannath",
+                    "repo": "American-Sign-Language-Detection",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EfficientNet-Lite0 (download",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 262481615,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-06-21T18:51:19Z",
+                    "owner": "margaretmz",
+                    "repo": "icon-classifier",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Icon Classifier Colab & Android",
+                  "description": "tutorial 1 | tutorial 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 262481615,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-06-21T18:51:19Z",
+                    "owner": "margaretmz",
+                    "repo": "icon-classifier",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Classification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Object detection",
+                  "description": "Quantized COCO SSD MobileNet v1 (download) Android | iOS | Overview tensorflow.org",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Object detection",
+                  "description": "YOLOv5 Yolov5 Inference Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 379243015,
+                    "language": "Python",
+                    "last_commit": "2021-10-16T16:43:47Z",
+                    "owner": "neso613",
+                    "repo": "yolo-v5-tflite-model",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MobileNetV2 SSD (download",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191820100,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T23:17:05Z",
+                    "owner": "google-ai-edge",
+                    "repo": "mediapipe",
+                    "stars": 36709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Reference",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191820100,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T23:17:05Z",
+                    "owner": "google-ai-edge",
+                    "repo": "mediapipe",
+                    "stars": 36709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SSD MobileNet (download)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204205181,
+                    "language": "Dart",
+                    "last_commit": "2019-09-18T10:34:31Z",
+                    "owner": "ariG23498",
+                    "repo": "Flutter-License",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flutter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204205181,
+                    "language": "Dart",
+                    "last_commit": "2019-09-18T10:34:31Z",
+                    "owner": "ariG23498",
+                    "repo": "Flutter-License",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Face detection",
+                  "description": "BlazeFace (download) Paper MediaPipe",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191820100,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T23:17:05Z",
+                    "owner": "google-ai-edge",
+                    "repo": "mediapipe",
+                    "stars": 36709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Face Authentication",
+                  "description": "FaceNet Flutter Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 353829999,
+                    "language": "Dart",
+                    "last_commit": "2021-06-30T14:04:36Z",
+                    "owner": "sayannath",
+                    "repo": "Face-Authentication-App",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Palm detection & hand landmarks (download",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191820100,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T23:17:05Z",
+                    "owner": "google-ai-edge",
+                    "repo": "mediapipe",
+                    "stars": 36709
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Detection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Segmentation",
+                  "description": "DeepLab V3 (download) Android & iOS | Overview | Flutter Image | Realtime | Paper tf.org & Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segmentation",
+                  "description": "Different variants of DeepLab V3 models Models on TF Hub with Colab Notebooks Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51117837,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T16:27:30Z",
+                    "owner": "tensorflow",
+                    "repo": "models",
+                    "stars": 77648
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segmentation",
+                  "description": "DeepLab V3 model Android | Tutorial Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 382224921,
+                    "language": "Kotlin",
+                    "last_commit": "2021-11-02T15:47:58Z",
+                    "owner": "farmaker47",
+                    "repo": "Update_image_segmentation",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hair Segmentation",
+                  "description": "Download Paper MediaPipe",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191820100,
+                    "language": "C++",
+                    "last_commit": "2026-08-21T23:17:05Z",
+                    "owner": "google-ai-edge",
+                    "repo": "mediapipe",
+                    "stars": 36709
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Segmentation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Arbitrary image stylization",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 58157629,
+                    "language": "Python",
+                    "last_commit": "2026-01-06T01:17:54Z",
+                    "owner": "magenta",
+                    "repo": "magenta",
+                    "stars": 19808
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Overview",
+                  "description": "Android | Flutter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video Style Transfer",
+                  "description": "Download: Dynamic range models) Android | Tutorial Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 273843648,
+                    "language": "Kotlin",
+                    "last_commit": "2020-09-13T07:58:03Z",
+                    "owner": "farmaker47",
+                    "repo": "video_style_transfer",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepLabV3 & Style Transfer models",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275486808,
+                    "language": "Kotlin",
+                    "last_commit": "2021-01-20T19:27:52Z",
+                    "owner": "margaretmz",
+                    "repo": "segmentation-style-transfer",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Project repo",
+                  "description": "Android | Tutorial",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275486808,
+                    "language": "Kotlin",
+                    "last_commit": "2021-01-20T19:27:52Z",
+                    "owner": "margaretmz",
+                    "repo": "segmentation-style-transfer",
+                    "stars": 58
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Style Transfer"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "U-GAT-IT",
+                  "description": "(Selfie2Anime)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198919091,
+                    "language": "Python",
+                    "last_commit": "2021-05-20T03:23:05Z",
+                    "owner": "taki0112",
+                    "repo": "UGATIT",
+                    "stars": 6116
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Project repo",
+                  "description": "Android | Tutorial",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 270529738,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-04-06T07:08:57Z",
+                    "owner": "margaretmz",
+                    "repo": "Selfie2Anime-with-TFLite",
+                    "stars": 77
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "White-box CartoonGAN",
+                  "description": "(download)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247693225,
+                    "language": "Python",
+                    "last_commit": "2026-01-19T01:43:24Z",
+                    "owner": "SystemErrorWang",
+                    "repo": "White-box-Cartoonization",
+                    "stars": 4001
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Project repo",
+                  "description": "Android | Tutorial",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281562027,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-09-09T16:53:23Z",
+                    "owner": "margaretmz",
+                    "repo": "Cartoonizer-with-TFLite",
+                    "stars": 116
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Generative"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pose estimation",
+                  "description": "Posenet (download) Android | iOS | Overview tensorflow.org",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141200054,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-17T06:51:09Z",
+                    "owner": "tensorflow",
+                    "repo": "examples",
+                    "stars": 8281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MoveNet Lightning (download",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 446279564,
+                    "language": "Python",
+                    "last_commit": "2024-02-06T13:07:09Z",
+                    "owner": "NSTiwari",
+                    "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Project Repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 446279564,
+                    "language": "Python",
+                    "last_commit": "2024-02-06T13:07:09Z",
+                    "owner": "NSTiwari",
+                    "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Post estimation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Low-light image enhancement",
+                  "description": "Models on TF Hub Project repo | Original Paper | Flutter Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318704351,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-12-24T02:16:20Z",
+                    "owner": "sayakpaul",
+                    "repo": "MIRNet-TFLite-TRT",
+                    "stars": 137
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OCR",
+                  "description": "Models on TF Hub Project Repository Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 315276017,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-02-06T13:40:43Z",
+                    "owner": "tulasiram58827",
+                    "repo": "ocr_tflite",
+                    "stars": 110
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Question & Answer",
+              "description": "DistilBERT Android Hugging Face",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 221548664,
+                "language": "Java",
+                "last_commit": "2023-07-25T06:47:24Z",
+                "owner": "huggingface",
+                "repo": "tflite-android-transformers",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text Generation",
+              "description": "GPT-2 / DistilGPT2 Android Hugging Face",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 221548664,
+                "language": "Java",
+                "last_commit": "2023-07-25T06:47:24Z",
+                "owner": "huggingface",
+                "repo": "tflite-android-transformers",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text Classification",
+              "description": "Download Android |iOS | Flutter tf.org & Community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141200054,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T06:51:09Z",
+                "owner": "tensorflow",
+                "repo": "examples",
+                "stars": 8281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text Detection",
+              "description": "CRAFT Text Detector (Paper) Download | Project Repository | Blog1-Conversion to TFLite | Blog2-EAST vs CRAFT | Models on TF Hub | Android (Coming Soon) Community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313199117,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-02-26T09:00:34Z",
+                "owner": "tulasiram58827",
+                "repo": "craft_tflite",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Speech Recognition",
+              "description": "DeepSpeech Reference Mozilla",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 60273704,
+                "language": "C++",
+                "last_commit": "2025-06-19T12:52:51Z",
+                "owner": "mozilla",
+                "repo": "DeepSpeech",
+                "stars": 26771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech Recognition",
+              "description": "CONFORMER Inference Android Community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372781316,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-21T16:27:27Z",
+                "owner": "neso613",
+                "repo": "ASR_TFLite",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech Synthesis",
+              "description": "Tacotron-2, FastSpeech2, MB-Melgan Android TensorSpeech",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249107601,
+                "language": "Python",
+                "last_commit": "2024-07-05T07:24:49Z",
+                "owner": "TensorSpeech",
+                "repo": "TensorFlowTTS",
+                "stars": 3995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech Synthesis(TTS)",
+              "description": "Tacotron2, FastSpeech2, MelGAN, MB-MelGAN, HiFi-GAN, Parallel WaveGAN Inference Notebook | Project Repository Community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321125070,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-02-12T15:15:02Z",
+                "owner": "tulasiram58827",
+                "repo": "TTS_TFLite",
+                "stars": 199
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dual-Encoder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141200054,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T06:51:09Z",
+                "owner": "tensorflow",
+                "repo": "examples",
+                "stars": 8281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": "iOS | Reference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141200054,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T06:51:09Z",
+                "owner": "tensorflow",
+                "repo": "examples",
+                "stars": 8281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recommendation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Game agent",
+              "description": "Reinforcement learning Flutter | Tutorial Community",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 358535494,
+                "language": "Dart",
+                "last_commit": "2023-09-16T01:35:22Z",
+                "owner": "windmaple",
+                "repo": "planestrike_flutter",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Game"
+        }
+      ],
+      "title": "Models with samples"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MobileNet",
+              "description": "Pretrained MobileNet v2 and v3 models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            }
+          ],
+          "description": "These are the TensorFlow Lite models that could be implemented in apps and things:",
+          "node_type": "group",
+          "title": "TensorFlow Lite models"
+        },
         {
           "children": [
             {
@@ -83,7 +870,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77649
+                "stars": 77648
               }
             },
             {
@@ -98,7 +885,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77649
+                "stars": 77648
               }
             }
           ],
@@ -175,7 +962,7 @@
             "last_commit": "2026-08-21T23:17:05Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36700
+            "stars": 36709
           }
         },
         {
@@ -208,10 +995,10 @@
             "archived": false,
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T00:45:06Z",
+            "last_commit": "2026-08-24T12:22:40Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33390
+            "stars": 33395
           }
         },
         {
@@ -294,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:15:06.198Z",
+    "last_updated": "2026-08-24T14:09:50.494Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_id": 237012805,
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
