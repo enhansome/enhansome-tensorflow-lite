@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-25T05:59:53Z",
+            "last_commit": "2026-08-26T01:15:13Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197613
+            "stars": 197634
           }
         },
         {
@@ -224,10 +224,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:59:06Z",
+                    "last_commit": "2026-08-25T23:56:35Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36714
+                    "stars": 36720
                   }
                 },
                 {
@@ -239,10 +239,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:59:06Z",
+                    "last_commit": "2026-08-25T23:56:35Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36714
+                    "stars": 36720
                   }
                 },
                 {
@@ -284,10 +284,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:59:06Z",
+                    "last_commit": "2026-08-25T23:56:35Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36714
+                    "stars": 36720
                   }
                 },
                 {
@@ -314,10 +314,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:59:06Z",
+                    "last_commit": "2026-08-25T23:56:35Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36714
+                    "stars": 36720
                   }
                 }
               ],
@@ -351,10 +351,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77650
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:59:06Z",
+                    "last_commit": "2026-08-25T23:56:35Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36714
+                    "stars": 36720
                   }
                 }
               ],
@@ -716,7 +716,7 @@
                 "last_commit": "2025-06-19T12:52:51Z",
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26772
+                "stars": 26771
               }
             },
             {
@@ -845,10 +845,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77650
               }
             }
           ],
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77650
               }
             },
             {
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77650
               }
             }
           ],
@@ -959,10 +959,10 @@
             "archived": false,
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-25T03:59:06Z",
+            "last_commit": "2026-08-25T23:56:35Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36714
+            "stars": 36720
           }
         },
         {
@@ -995,10 +995,10 @@
             "archived": false,
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T02:58:32Z",
+            "last_commit": "2026-08-26T00:32:54Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33397
+            "stars": 33401
           }
         },
         {
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:24.229Z",
+    "last_updated": "2026-08-26T01:16:09.672Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_id": 237012805,
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
