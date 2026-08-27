@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-27T07:40:07Z",
+            "last_commit": "2026-08-27T12:00:13Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197715
+            "stars": 197721
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T22:03:04Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8280
+            "stars": 8281
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T22:03:04Z",
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8280
+            "stars": 8281
           }
         },
         {
@@ -85,7 +85,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -100,7 +100,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -197,7 +197,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -227,7 +227,7 @@
                     "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36737
+                    "stars": 36741
                   }
                 },
                 {
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36737
+                    "stars": 36741
                   }
                 },
                 {
@@ -287,7 +287,7 @@
                     "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36737
+                    "stars": 36741
                   }
                 },
                 {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36737
+                    "stars": 36741
                   }
                 }
               ],
@@ -339,7 +339,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -384,7 +384,7 @@
                     "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36737
+                    "stars": 36741
                   }
                 }
               ],
@@ -421,7 +421,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -518,7 +518,7 @@
                     "last_commit": "2026-01-19T01:43:24Z",
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4002
+                    "stars": 4001
                   }
                 },
                 {
@@ -555,7 +555,7 @@
                     "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280
+                    "stars": 8281
                   }
                 },
                 {
@@ -679,7 +679,7 @@
                 "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8280
+                "stars": 8281
               }
             },
             {
@@ -783,7 +783,7 @@
                 "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8280
+                "stars": 8281
               }
             },
             {
@@ -798,7 +798,7 @@
                 "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8280
+                "stars": 8281
               }
             }
           ],
@@ -962,7 +962,7 @@
             "last_commit": "2026-08-27T04:36:59Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36737
+            "stars": 36741
           }
         },
         {
@@ -995,10 +995,10 @@
             "archived": false,
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T15:45:52Z",
+            "last_commit": "2026-08-27T08:41:02Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33410
+            "stars": 33412
           }
         },
         {
@@ -1081,9 +1081,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T07:46:18.270Z",
-    "original_repository": "margaretmz/awesome-tensorflow-lite",
-    "original_repository_id": 237012805,
+    "last_updated": "2026-08-27T12:05:42.377Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 237012805,
+      "language": null,
+      "last_commit": "2022-03-01T02:42:46Z",
+      "owner": "margaretmz",
+      "repo": "awesome-tensorflow-lite",
+      "stars": 1390
+    },
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
     "enhanced_repository_description": null,
