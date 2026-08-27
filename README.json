@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-26T01:15:13Z",
+            "last_commit": "2026-08-27T07:40:07Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197634
+            "stars": 197715
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 141200054,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T15:23:17Z",
+            "last_commit": "2026-08-26T22:03:04Z",
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8280
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 141200054,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T15:23:17Z",
+            "last_commit": "2026-08-26T22:03:04Z",
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8280
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 268414080,
             "language": "C++",
-            "last_commit": "2026-08-24T15:25:23Z",
+            "last_commit": "2026-08-27T00:49:15Z",
             "owner": "tensorflow",
             "repo": "tflite-support",
             "stars": 440
@@ -82,7 +82,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -97,7 +97,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -194,7 +194,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -224,10 +224,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T23:56:35Z",
+                    "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36720
+                    "stars": 36737
                   }
                 },
                 {
@@ -239,10 +239,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T23:56:35Z",
+                    "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36720
+                    "stars": 36737
                   }
                 },
                 {
@@ -284,10 +284,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T23:56:35Z",
+                    "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36720
+                    "stars": 36737
                   }
                 },
                 {
@@ -314,10 +314,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T23:56:35Z",
+                    "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36720
+                    "stars": 36737
                   }
                 }
               ],
@@ -336,7 +336,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -351,10 +351,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650
+                    "stars": 77653
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-25T23:56:35Z",
+                    "last_commit": "2026-08-27T04:36:59Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36720
+                    "stars": 36737
                   }
                 }
               ],
@@ -418,7 +418,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -518,7 +518,7 @@
                     "last_commit": "2026-01-19T01:43:24Z",
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4002
                   }
                 },
                 {
@@ -552,7 +552,7 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T15:23:17Z",
+                    "last_commit": "2026-08-26T22:03:04Z",
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8280
@@ -676,7 +676,7 @@
                 "archived": false,
                 "id": 141200054,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T15:23:17Z",
+                "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8280
@@ -716,7 +716,7 @@
                 "last_commit": "2025-06-19T12:52:51Z",
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26771
+                "stars": 26772
               }
             },
             {
@@ -746,7 +746,7 @@
                 "last_commit": "2024-07-05T07:24:49Z",
                 "owner": "TensorSpeech",
                 "repo": "TensorFlowTTS",
-                "stars": 3995
+                "stars": 3996
               }
             },
             {
@@ -780,7 +780,7 @@
                 "archived": false,
                 "id": 141200054,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T15:23:17Z",
+                "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8280
@@ -795,7 +795,7 @@
                 "archived": false,
                 "id": 141200054,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T15:23:17Z",
+                "last_commit": "2026-08-26T22:03:04Z",
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8280
@@ -845,10 +845,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77653
               }
             }
           ],
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77653
               }
             },
             {
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77653
               }
             }
           ],
@@ -911,7 +911,7 @@
             "last_commit": "2025-12-08T13:57:28Z",
             "owner": "android",
             "repo": "codelab-mlkit-android",
-            "stars": 187
+            "stars": 186
           }
         },
         {
@@ -959,10 +959,10 @@
             "archived": false,
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-25T23:56:35Z",
+            "last_commit": "2026-08-27T04:36:59Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36720
+            "stars": 36737
           }
         },
         {
@@ -995,10 +995,10 @@
             "archived": false,
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T00:32:54Z",
+            "last_commit": "2026-08-26T15:45:52Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33401
+            "stars": 33410
           }
         },
         {
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:16:09.672Z",
+    "last_updated": "2026-08-27T07:46:18.270Z",
     "original_repository": "margaretmz/awesome-tensorflow-lite",
     "original_repository_id": 237012805,
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
