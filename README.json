@@ -12,11 +12,12 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-27T12:00:13Z",
+            "last_commit": "2026-08-28T09:45:50Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197721
-          }
+            "stars": 197756
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8281
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tensorflow",
             "repo": "examples",
             "stars": 8281
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tensorflow",
             "repo": "tflite-support",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         }
       ],
       "title": "Past announcements:"
@@ -86,7 +90,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +122,8 @@
                     "owner": "AakashKumarNain",
                     "repo": "skin_cancer_detection",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +138,8 @@
                     "owner": "sayannath",
                     "repo": "American-Sign-Language-Detection",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +154,8 @@
                     "owner": "sayannath",
                     "repo": "American-Sign-Language-Detection",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +170,8 @@
                     "owner": "margaretmz",
                     "repo": "icon-classifier",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +186,8 @@
                     "owner": "margaretmz",
                     "repo": "icon-classifier",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -198,7 +209,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -213,7 +225,8 @@
                     "owner": "neso613",
                     "repo": "yolo-v5-tflite-model",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -224,11 +237,12 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-27T04:36:59Z",
+                    "last_commit": "2026-08-28T03:00:01Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36741
-                  }
+                    "stars": 36757
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -239,11 +253,12 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-27T04:36:59Z",
+                    "last_commit": "2026-08-28T03:00:01Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36741
-                  }
+                    "stars": 36757
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +273,8 @@
                     "owner": "ariG23498",
                     "repo": "Flutter-License",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +289,8 @@
                     "owner": "ariG23498",
                     "repo": "Flutter-License",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -284,11 +301,12 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-27T04:36:59Z",
+                    "last_commit": "2026-08-28T03:00:01Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36741
-                  }
+                    "stars": 36757
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -303,7 +321,8 @@
                     "owner": "sayannath",
                     "repo": "Face-Authentication-App",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -314,11 +333,12 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-27T04:36:59Z",
+                    "last_commit": "2026-08-28T03:00:01Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36741
-                  }
+                    "stars": 36757
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -340,7 +360,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -351,11 +372,12 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-27T04:28:47Z",
+                    "last_commit": "2026-08-28T01:33:46Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653
-                  }
+                    "stars": 77658
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -370,7 +392,8 @@
                     "owner": "farmaker47",
                     "repo": "Update_image_segmentation",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -381,11 +404,12 @@
                     "archived": false,
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-27T04:36:59Z",
+                    "last_commit": "2026-08-28T03:00:01Z",
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36741
-                  }
+                    "stars": 36757
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -406,8 +430,9 @@
                     "last_commit": "2026-01-06T01:17:54Z",
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19808
-                  }
+                    "stars": 19807
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +447,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +463,8 @@
                     "owner": "farmaker47",
                     "repo": "video_style_transfer",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +479,8 @@
                     "owner": "margaretmz",
                     "repo": "segmentation-style-transfer",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -467,7 +495,8 @@
                     "owner": "margaretmz",
                     "repo": "segmentation-style-transfer",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -489,7 +518,8 @@
                     "owner": "taki0112",
                     "repo": "UGATIT",
                     "stars": 6116
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +534,8 @@
                     "owner": "margaretmz",
                     "repo": "Selfie2Anime-with-TFLite",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -519,7 +550,8 @@
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
                     "stars": 4001
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -534,7 +566,8 @@
                     "owner": "margaretmz",
                     "repo": "Cartoonizer-with-TFLite",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -556,7 +589,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -571,7 +605,8 @@
                     "owner": "NSTiwari",
                     "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -586,7 +621,8 @@
                     "owner": "NSTiwari",
                     "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -608,7 +644,8 @@
                     "owner": "sayakpaul",
                     "repo": "MIRNet-TFLite-TRT",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 },
                 {
                   "node_type": "item",
@@ -623,7 +660,8 @@
                     "owner": "tulasiram58827",
                     "repo": "ocr_tflite",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T09:51:02.837Z"
                 }
               ],
               "description": null,
@@ -650,7 +688,8 @@
                 "owner": "huggingface",
                 "repo": "tflite-android-transformers",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -665,7 +704,8 @@
                 "owner": "huggingface",
                 "repo": "tflite-android-transformers",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -680,7 +720,8 @@
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8281
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -695,7 +736,8 @@
                 "owner": "tulasiram58827",
                 "repo": "craft_tflite",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": null,
@@ -717,7 +759,8 @@
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
                 "stars": 26772
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -732,7 +775,8 @@
                 "owner": "neso613",
                 "repo": "ASR_TFLite",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -747,7 +791,8 @@
                 "owner": "TensorSpeech",
                 "repo": "TensorFlowTTS",
                 "stars": 3996
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -762,7 +807,8 @@
                 "owner": "tulasiram58827",
                 "repo": "TTS_TFLite",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": null,
@@ -784,7 +830,8 @@
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8281
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -799,7 +846,8 @@
                 "owner": "tensorflow",
                 "repo": "examples",
                 "stars": 8281
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": null,
@@ -821,7 +869,8 @@
                 "owner": "windmaple",
                 "repo": "planestrike_flutter",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": null,
@@ -845,11 +894,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T01:33:46Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
-              }
+                "stars": 77658
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": "These are the TensorFlow Lite models that could be implemented in apps and things:",
@@ -867,11 +917,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T01:33:46Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
-              }
+                "stars": 77658
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             },
             {
               "node_type": "item",
@@ -882,11 +933,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T01:33:46Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
-              }
+                "stars": 77658
+              },
+              "first_seen": "2026-08-28T09:51:02.837Z"
             }
           ],
           "description": "These are TensorFlow models that could be converted to .tflite and then implemented in apps and things:",
@@ -912,7 +964,8 @@
             "owner": "android",
             "repo": "codelab-mlkit-android",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -927,7 +980,8 @@
             "owner": "DaemonLoki",
             "repo": "Business-Card-Mail-Extractor",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -942,7 +996,8 @@
             "owner": "publicissapient-france",
             "repo": "magritte",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         }
       ],
       "title": "ML Kit examples"
@@ -959,11 +1014,12 @@
             "archived": false,
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-27T04:36:59Z",
+            "last_commit": "2026-08-28T03:00:01Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36741
-          }
+            "stars": 36757
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -978,7 +1034,8 @@
             "owner": "am15h",
             "repo": "tflite_flutter_plugin",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         }
       ],
       "title": "Plugins and SDKs"
@@ -995,11 +1052,12 @@
             "archived": false,
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:41:02Z",
+            "last_commit": "2026-08-27T23:39:52Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33412
-          }
+            "stars": 33418
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -1014,7 +1072,8 @@
             "owner": "FirebaseExtended",
             "repo": "mlkit-material-android",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -1029,7 +1088,8 @@
             "owner": "sayakpaul",
             "repo": "Adventures-in-TensorFlow-Lite",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -1044,7 +1104,8 @@
             "owner": "dailystudio",
             "repo": "tensorflow-lite-examples-android",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -1059,7 +1120,8 @@
             "owner": "SunitRoy2703",
             "repo": "Tensorflow-lite-kotlin-samples",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         },
         {
           "node_type": "item",
@@ -1074,14 +1136,15 @@
             "owner": "iglaweb",
             "repo": "TFProfiler",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T09:51:02.837Z"
         }
       ],
       "title": "Helpful links"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:42.377Z",
+    "last_updated": "2026-08-28T09:51:02.837Z",
     "original_repository_info": {
       "archived": false,
       "id": 237012805,
@@ -1089,7 +1152,7 @@
       "last_commit": "2022-03-01T02:42:46Z",
       "owner": "margaretmz",
       "repo": "awesome-tensorflow-lite",
-      "stars": 1390
+      "stars": 1392
     },
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
