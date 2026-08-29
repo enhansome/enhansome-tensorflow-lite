@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source Machine Learning Framework for Everyone",
+            "homepage": "https://tensorflow.org",
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-28T09:45:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:32:06Z",
+            "open_issues": 2960,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197756
+            "stars": 197767,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "distributed",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -26,12 +40,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow examples",
+            "homepage": "https://www.tensorflow.org",
             "id": 141200054,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:03:04Z",
+            "open_issues": 134,
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8281
+            "stars": 8281,
+            "topics": [
+              "tensorflow",
+              "tensorflow-examples"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -42,12 +64,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow examples",
+            "homepage": "https://www.tensorflow.org",
             "id": 141200054,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:03:04Z",
+            "open_issues": 134,
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8281
+            "stars": 8281,
+            "topics": [
+              "tensorflow",
+              "tensorflow-examples"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.",
+            "homepage": null,
             "id": 268414080,
             "language": "C++",
-            "last_commit": "2026-08-27T00:49:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T15:34:18Z",
+            "open_issues": 123,
             "owner": "tensorflow",
             "repo": "tflite-support",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         }
@@ -84,12 +119,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -100,12 +143,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -116,12 +167,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Detecting cancers on mobile phones",
+                    "homepage": null,
                     "id": 184006383,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-05-05T08:20:24Z",
+                    "open_issues": 0,
                     "owner": "AakashKumarNain",
                     "repo": "skin_cancer_detection",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -132,12 +188,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "American Sign Language Detection is a deep learning end to end project where we can detect American Sign Language.",
+                    "homepage": null,
                     "id": 352993664,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-03-19T13:43:56Z",
+                    "open_issues": 0,
                     "owner": "sayannath",
                     "repo": "American-Sign-Language-Detection",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "asl",
+                      "colab-notebook",
+                      "computer-vision",
+                      "java",
+                      "keras",
+                      "mobile",
+                      "mobilenetv2",
+                      "mobilenetv3",
+                      "native",
+                      "tensorflowlite",
+                      "tensroflow",
+                      "tfhub",
+                      "tflite",
+                      "tflite-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -148,12 +224,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "American Sign Language Detection is a deep learning end to end project where we can detect American Sign Language.",
+                    "homepage": null,
                     "id": 352993664,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-03-19T13:43:56Z",
+                    "open_issues": 0,
                     "owner": "sayannath",
                     "repo": "American-Sign-Language-Detection",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "asl",
+                      "colab-notebook",
+                      "computer-vision",
+                      "java",
+                      "keras",
+                      "mobile",
+                      "mobilenetv2",
+                      "mobilenetv3",
+                      "native",
+                      "tensorflowlite",
+                      "tensroflow",
+                      "tfhub",
+                      "tflite",
+                      "tflite-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -164,12 +260,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Icon classifier made with TFLite Model Maker and deployed to Android with ML Model Binding.",
+                    "homepage": null,
                     "id": 262481615,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-06-21T18:51:19Z",
+                    "open_issues": 0,
                     "owner": "margaretmz",
                     "repo": "icon-classifier",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "android",
+                      "computer-vision",
+                      "deep-learning",
+                      "tensorflow-lite",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -180,12 +287,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Icon classifier made with TFLite Model Maker and deployed to Android with ML Model Binding.",
+                    "homepage": null,
                     "id": 262481615,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-06-21T18:51:19Z",
+                    "open_issues": 0,
                     "owner": "margaretmz",
                     "repo": "icon-classifier",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "android",
+                      "computer-vision",
+                      "deep-learning",
+                      "tensorflow-lite",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -203,12 +321,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -219,12 +345,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "YOLOv5 - most advanced vision AI model for object detection. Natively implemented in PyTorch and exportable to TFLite for use in edge solutions.",
+                    "homepage": null,
                     "id": 379243015,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-10-16T16:43:47Z",
+                    "open_issues": 2,
                     "owner": "neso613",
                     "repo": "yolo-v5-tflite-model",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -235,12 +366,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                    "homepage": "https://ai.google.dev/edge/mediapipe",
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:00:01Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:16:10Z",
+                    "open_issues": 549,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36757
+                    "stars": 36762,
+                    "topics": [
+                      "android",
+                      "audio-processing",
+                      "c-plus-plus",
+                      "calculator",
+                      "computer-vision",
+                      "deep-learning",
+                      "framework",
+                      "graph-based",
+                      "graph-framework",
+                      "inference",
+                      "machine-learning",
+                      "mediapipe",
+                      "mobile-development",
+                      "perception",
+                      "pipeline-framework",
+                      "stream-processing",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -251,12 +405,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                    "homepage": "https://ai.google.dev/edge/mediapipe",
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:00:01Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:16:10Z",
+                    "open_issues": 549,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36757
+                    "stars": 36762,
+                    "topics": [
+                      "android",
+                      "audio-processing",
+                      "c-plus-plus",
+                      "calculator",
+                      "computer-vision",
+                      "deep-learning",
+                      "framework",
+                      "graph-based",
+                      "graph-framework",
+                      "inference",
+                      "machine-learning",
+                      "mediapipe",
+                      "mobile-development",
+                      "perception",
+                      "pipeline-framework",
+                      "stream-processing",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -267,12 +444,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TCS humAIn",
+                    "homepage": null,
                     "id": 204205181,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2019-09-18T10:34:31Z",
+                    "open_issues": 0,
                     "owner": "ariG23498",
                     "repo": "Flutter-License",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "android",
+                      "dart",
+                      "flutter",
+                      "ios",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -283,12 +471,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TCS humAIn",
+                    "homepage": null,
                     "id": 204205181,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2019-09-18T10:34:31Z",
+                    "open_issues": 0,
                     "owner": "ariG23498",
                     "repo": "Flutter-License",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "android",
+                      "dart",
+                      "flutter",
+                      "ios",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -299,12 +498,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                    "homepage": "https://ai.google.dev/edge/mediapipe",
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:00:01Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:16:10Z",
+                    "open_issues": 549,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36757
+                    "stars": 36762,
+                    "topics": [
+                      "android",
+                      "audio-processing",
+                      "c-plus-plus",
+                      "calculator",
+                      "computer-vision",
+                      "deep-learning",
+                      "framework",
+                      "graph-based",
+                      "graph-framework",
+                      "inference",
+                      "machine-learning",
+                      "mediapipe",
+                      "mobile-development",
+                      "perception",
+                      "pipeline-framework",
+                      "stream-processing",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -315,12 +537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A flutter which is capable of Face Authentication. Used Facenet to do face authentication.",
+                    "homepage": null,
                     "id": 353829999,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2021-06-30T14:04:36Z",
+                    "open_issues": 1,
                     "owner": "sayannath",
                     "repo": "Face-Authentication-App",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -331,12 +558,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                    "homepage": "https://ai.google.dev/edge/mediapipe",
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:00:01Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:16:10Z",
+                    "open_issues": 549,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36757
+                    "stars": 36762,
+                    "topics": [
+                      "android",
+                      "audio-processing",
+                      "c-plus-plus",
+                      "calculator",
+                      "computer-vision",
+                      "deep-learning",
+                      "framework",
+                      "graph-based",
+                      "graph-framework",
+                      "inference",
+                      "machine-learning",
+                      "mediapipe",
+                      "mobile-development",
+                      "perception",
+                      "pipeline-framework",
+                      "stream-processing",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -354,12 +604,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -370,12 +628,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-28T01:33:46Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77658
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -386,12 +649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 382224921,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-11-02T15:47:58Z",
+                    "open_issues": 1,
                     "owner": "farmaker47",
                     "repo": "Update_image_segmentation",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -402,12 +670,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                    "homepage": "https://ai.google.dev/edge/mediapipe",
                     "id": 191820100,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:00:01Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:16:10Z",
+                    "open_issues": 549,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36757
+                    "stars": 36762,
+                    "topics": [
+                      "android",
+                      "audio-processing",
+                      "c-plus-plus",
+                      "calculator",
+                      "computer-vision",
+                      "deep-learning",
+                      "framework",
+                      "graph-based",
+                      "graph-framework",
+                      "inference",
+                      "machine-learning",
+                      "mediapipe",
+                      "mobile-development",
+                      "perception",
+                      "pipeline-framework",
+                      "stream-processing",
+                      "video-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -425,12 +716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Magenta: Music and Art Generation with Machine Intelligence",
+                    "homepage": null,
                     "id": 58157629,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-06T01:17:54Z",
+                    "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19807
+                    "stars": 19807,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -441,12 +737,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -457,12 +761,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow style transfer in video",
+                    "homepage": null,
                     "id": 273843648,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-09-13T07:58:03Z",
+                    "open_issues": 0,
                     "owner": "farmaker47",
                     "repo": "video_style_transfer",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "android",
+                      "koin-kotlin",
+                      "kotlin",
+                      "mvvm",
+                      "style-transfer",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -473,12 +789,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A background stylizer Android app chaining 2 ML models: segmentation & style transfer.",
+                    "homepage": null,
                     "id": 275486808,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-20T19:27:52Z",
+                    "open_issues": 4,
                     "owner": "margaretmz",
                     "repo": "segmentation-style-transfer",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -489,12 +810,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A background stylizer Android app chaining 2 ML models: segmentation & style transfer.",
+                    "homepage": null,
                     "id": 275486808,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-20T19:27:52Z",
+                    "open_issues": 4,
                     "owner": "margaretmz",
                     "repo": "segmentation-style-transfer",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -512,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)",
+                    "homepage": null,
                     "id": 198919091,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-05-20T03:23:05Z",
+                    "open_issues": 56,
                     "owner": "taki0112",
                     "repo": "UGATIT",
-                    "stars": 6116
+                    "stars": 6116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -528,12 +859,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "How to create Selfie2Anime from tflite model to Android.",
+                    "homepage": null,
                     "id": 270529738,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-04-06T07:08:57Z",
+                    "open_issues": 0,
                     "owner": "margaretmz",
                     "repo": "Selfie2Anime-with-TFLite",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": [
+                      "android",
+                      "computer-vision",
+                      "gans",
+                      "selfie2anime",
+                      "tensorflow-lite",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -544,12 +887,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
+                    "homepage": null,
                     "id": 247693225,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-19T01:43:24Z",
+                    "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001
+                    "stars": 4001,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -560,12 +908,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "How to create a Cartoonizer Android app with TensorFlow Lite models.",
+                    "homepage": null,
                     "id": 281562027,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-09-09T16:53:23Z",
+                    "open_issues": 3,
                     "owner": "margaretmz",
                     "repo": "Cartoonizer-with-TFLite",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": [
+                      "android",
+                      "computer-vision",
+                      "gans",
+                      "tensorflow-lite",
+                      "tflite"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -583,12 +942,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -599,12 +966,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An E2E tutorial to create a video game controller by creating a custom pose classifier using TF Lite.",
+                    "homepage": null,
                     "id": 446279564,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-06T13:07:09Z",
+                    "open_issues": 1,
                     "owner": "NSTiwari",
                     "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -615,12 +987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An E2E tutorial to create a video game controller by creating a custom pose classifier using TF Lite.",
+                    "homepage": null,
                     "id": 446279564,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-06T13:07:09Z",
+                    "open_issues": 1,
                     "owner": "NSTiwari",
                     "repo": "Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -638,12 +1015,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow Lite models for MIRNet for low-light image enhancement.",
+                    "homepage": null,
                     "id": 318704351,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-12-24T02:16:20Z",
+                    "open_issues": 0,
                     "owner": "sayakpaul",
                     "repo": "MIRNet-TFLite-TRT",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "computer-vision",
+                      "tensorflow2",
+                      "tflite",
+                      "tinyml"
+                    ]
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 },
@@ -654,12 +1041,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is to create tflite models for the available ocr models",
+                    "homepage": null,
                     "id": 315276017,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-02-06T13:40:43Z",
+                    "open_issues": 9,
                     "owner": "tulasiram58827",
                     "repo": "ocr_tflite",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
                 }
@@ -682,12 +1074,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DistilBERT / GPT-2 for on-device inference thanks to TensorFlow Lite with Android demo apps",
+                "homepage": null,
                 "id": 221548664,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-25T06:47:24Z",
+                "open_issues": 16,
                 "owner": "huggingface",
                 "repo": "tflite-android-transformers",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "android",
+                  "nlp",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -698,12 +1101,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DistilBERT / GPT-2 for on-device inference thanks to TensorFlow Lite with Android demo apps",
+                "homepage": null,
                 "id": 221548664,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-25T06:47:24Z",
+                "open_issues": 16,
                 "owner": "huggingface",
                 "repo": "tflite-android-transformers",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "android",
+                  "nlp",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -714,12 +1128,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow examples",
+                "homepage": "https://www.tensorflow.org",
                 "id": 141200054,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T22:03:04Z",
+                "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281
+                "stars": 8281,
+                "topics": [
+                  "tensorflow",
+                  "tensorflow-examples"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -730,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the github repository for converting craft pretrained model to tflite version ",
+                "homepage": null,
                 "id": 313199117,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-26T09:00:34Z",
+                "open_issues": 5,
                 "owner": "tulasiram58827",
                 "repo": "craft_tflite",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -753,12 +1180,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+                "homepage": null,
                 "id": 60273704,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2025-06-19T12:52:51Z",
+                "open_issues": 151,
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26772
+                "stars": 26773,
+                "topics": [
+                  "deep-learning",
+                  "deepspeech",
+                  "embedded",
+                  "machine-learning",
+                  "neural-networks",
+                  "offline",
+                  "on-device",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -769,12 +1212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of ASR models for English TFLite models for faster inference.",
+                "homepage": null,
                 "id": 372781316,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-21T16:27:27Z",
+                "open_issues": 2,
                 "owner": "neso613",
                 "repo": "ASR_TFLite",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -785,12 +1233,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)",
+                "homepage": "https://tensorspeech.github.io/TensorFlowTTS/",
                 "id": 249107601,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-05T07:24:49Z",
+                "open_issues": 2,
                 "owner": "TensorSpeech",
                 "repo": "TensorFlowTTS",
-                "stars": 3996
+                "stars": 3996,
+                "topics": [
+                  "chinese-tts",
+                  "fastspeech",
+                  "fastspeech2",
+                  "german-tts",
+                  "japanese-tts",
+                  "korea-tts",
+                  "melgan",
+                  "mobile-tts",
+                  "multi-speaker-tts",
+                  "multiband-melgan",
+                  "parallel-wavegan",
+                  "real-time",
+                  "speech-synthesis",
+                  "tacotron2",
+                  "tensorflow2",
+                  "text-to-speech",
+                  "tflite",
+                  "tts",
+                  "vocoder",
+                  "zh-tts"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -801,12 +1275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is a collection of TTS Models in TFLite",
+                "homepage": null,
                 "id": 321125070,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-12T15:15:02Z",
+                "open_issues": 4,
                 "owner": "tulasiram58827",
                 "repo": "TTS_TFLite",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -824,12 +1303,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow examples",
+                "homepage": "https://www.tensorflow.org",
                 "id": 141200054,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T22:03:04Z",
+                "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281
+                "stars": 8281,
+                "topics": [
+                  "tensorflow",
+                  "tensorflow-examples"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -840,12 +1327,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow examples",
+                "homepage": "https://www.tensorflow.org",
                 "id": 141200054,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T22:03:04Z",
+                "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281
+                "stars": 8281,
+                "topics": [
+                  "tensorflow",
+                  "tensorflow-examples"
+                ]
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -863,12 +1358,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 358535494,
                 "language": "Dart",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-16T01:35:22Z",
+                "open_issues": 0,
                 "owner": "windmaple",
                 "repo": "planestrike_flutter",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -892,12 +1392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -915,12 +1420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             },
@@ -931,12 +1441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
             }
@@ -958,12 +1473,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 132662123,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-08T13:57:28Z",
+            "open_issues": 49,
             "owner": "android",
             "repo": "codelab-mlkit-android",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "codelab"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -974,12 +1496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 167697181,
             "language": "Dart",
+            "license": null,
             "last_commit": "2019-02-11T10:19:11Z",
+            "open_issues": 2,
             "owner": "DaemonLoki",
             "repo": "Business-Card-Mail-Extractor",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -990,12 +1517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ceci n'est pas une pomme - Deep Learning on mobile device",
+            "homepage": null,
             "id": 84998478,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-07T12:19:04Z",
+            "open_issues": 2,
             "owner": "publicissapient-france",
             "repo": "magritte",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         }
@@ -1012,12 +1544,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+            "homepage": "https://ai.google.dev/edge/mediapipe",
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-28T03:00:01Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:16:10Z",
+            "open_issues": 549,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36757
+            "stars": 36762,
+            "topics": [
+              "android",
+              "audio-processing",
+              "c-plus-plus",
+              "calculator",
+              "computer-vision",
+              "deep-learning",
+              "framework",
+              "graph-based",
+              "graph-framework",
+              "inference",
+              "machine-learning",
+              "mediapipe",
+              "mobile-development",
+              "perception",
+              "pipeline-framework",
+              "stream-processing",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1028,12 +1583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Lite Flutter Plugin",
+            "homepage": "https://pub.dev/packages/tflite_flutter",
             "id": 239580195,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-31T18:12:59Z",
+            "open_issues": 88,
             "owner": "am15h",
             "repo": "tflite_flutter_plugin",
-            "stars": 538
+            "stars": 538,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         }
@@ -1050,12 +1610,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualizer for neural network, deep learning and machine learning models",
+            "homepage": "https://netron.app",
             "id": 1198539,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T23:39:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:15:34Z",
+            "open_issues": 18,
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33418
+            "stars": 33421,
+            "topics": [
+              "ai",
+              "coreml",
+              "deep-learning",
+              "deeplearning",
+              "keras",
+              "machine-learning",
+              "machinelearning",
+              "ml",
+              "neural-network",
+              "numpy",
+              "onnx",
+              "pytorch",
+              "safetensors",
+              "tensorflow",
+              "tensorflow-lite",
+              "visualizer"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1066,12 +1648,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ML Kit Showcase App with Material Design",
+            "homepage": null,
             "id": 183648846,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-12T08:28:59Z",
+            "open_issues": 18,
             "owner": "FirebaseExtended",
             "repo": "mlkit-material-android",
-            "stars": 492
+            "stars": 492,
+            "topics": []
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1082,12 +1669,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains notebooks that show the usage of TensorFlow Lite for quantizing deep neural networks.",
+            "homepage": null,
             "id": 259780923,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-23T13:21:12Z",
+            "open_issues": 2,
             "owner": "sayakpaul",
             "repo": "Adventures-in-TensorFlow-Lite",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "inference",
+              "model-optimization",
+              "model-quantization",
+              "on-device-ml",
+              "post-training-quantization",
+              "pruning",
+              "quantization-aware-training",
+              "tensorflow-2",
+              "tensorflow-lite",
+              "tf-hub",
+              "tf-lite-model"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1098,12 +1702,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of Tensorflow  Lite on Android",
+            "homepage": null,
             "id": 267263865,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T15:07:24Z",
+            "open_issues": 4,
             "owner": "dailystudio",
             "repo": "tensorflow-lite-examples-android",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "android",
+              "bert",
+              "camerax",
+              "deeplab",
+              "digit-classifier",
+              "image-classification",
+              "image-segmentation",
+              "kotlin-android",
+              "machine-learning",
+              "minst",
+              "mobile-machine-learning",
+              "object-detection",
+              "posenet",
+              "smart-reply",
+              "speech-recognition",
+              "style-transfer",
+              "tensorflow",
+              "tensorflow-lite",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1114,12 +1743,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📌This repo contains the kotlin implementation of TensorflowLite Example Android Apps🚀",
+            "homepage": "https://sunitroy2703.github.io/Tensorflow-lite-kotlin-samples",
             "id": 405389854,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-16T16:12:05Z",
+            "open_issues": 2,
             "owner": "SunitRoy2703",
             "repo": "Tensorflow-lite-kotlin-samples",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "android",
+              "example",
+              "hacktoberfest",
+              "kotlin",
+              "tensorflow",
+              "tensorflow-examples",
+              "tensorflow-lite",
+              "tflite"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         },
@@ -1130,12 +1773,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Profile your Tensorflow Lite model on-device",
+            "homepage": null,
             "id": 297256320,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-06T04:20:12Z",
+            "open_issues": 0,
             "owner": "iglaweb",
             "repo": "TFProfiler",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "android",
+              "deep-learning",
+              "java",
+              "kotlin",
+              "neural-network",
+              "performance",
+              "tensorflow",
+              "tensorflow-lite",
+              "tensorflowlite"
+            ]
           },
           "first_seen": "2026-08-28T09:51:02.837Z"
         }
@@ -1144,15 +1802,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T09:51:02.837Z",
+    "last_updated": "2026-08-29T04:34:34.800Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.",
+      "homepage": null,
       "id": 237012805,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2022-03-01T02:42:46Z",
+      "open_issues": 1,
       "owner": "margaretmz",
       "repo": "awesome-tensorflow-lite",
-      "stars": 1392
+      "stars": 1392,
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "flutter",
+        "ios",
+        "keras-tutorials",
+        "mediapipe",
+        "mlkit",
+        "mobile",
+        "model-zoo",
+        "sample-app",
+        "tensorflow",
+        "tensorflow-keras",
+        "tensorflow-lite",
+        "tensorflow-models",
+        "tfhub",
+        "tflite",
+        "tflite-models"
+      ]
     },
     "original_repository_sha": "d20e763afa1912a82056a75f2a97fa1d97c10e79",
     "enhanced_repository": "enhansome/enhansome-tensorflow-lite",
