@@ -52,7 +52,7 @@ Please submit a PR if you would like to contribute and follow the guidelines [he
 
 Here are some past feature annoucements of TensorFlow Lite:
 
-* [Hexagon delegate](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/hexagon_delegate.md) ⭐ 197,767 | 🐛 2,960 | 🌐 C++ | 📅 2026-08-29 - How to use the Hexagon Delegate to speed up model inference on mobile and edge devices. Also see blog post  [Accelerating TensorFlow Lite on Qualcomm Hexagon DSPs](https://blog.tensorflow.org/2019/12/accelerating-tensorflow-lite-on-qualcomm.html).
+* [Hexagon delegate](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/hexagon_delegate.md) ⭐ 197,769 | 🐛 2,961 | 🌐 C++ | 📅 2026-08-29 - How to use the Hexagon Delegate to speed up model inference on mobile and edge devices. Also see blog post  [Accelerating TensorFlow Lite on Qualcomm Hexagon DSPs](https://blog.tensorflow.org/2019/12/accelerating-tensorflow-lite-on-qualcomm.html).
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - Create your custom [image & text](https://github.com/tensorflow/examples/tree/master/tensorflow_examples/lite/model_maker) ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-26 classification models easily in a few lines of code. See below the Icon Classifier for a tutorial by the community.
 * [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html) - It is finally here! Currently limited to transfer learning for image classification only but it's a great start. See the official [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-26 sample code and another one from the community ([Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition) ⭐ 60 | 🐛 1 | 🌐 Java | 📅 2023-03-25).
 * [Android Support Library](https://github.com/tensorflow/tflite-support/tree/master/tensorflow_lite_support/java) ⭐ 440 | 🐛 123 | 🌐 C++ | 📅 2026-08-28 - Makes mobile development easier ([Android](https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/EXPLORE_THE_CODE.md) ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-26 sample code).
@@ -209,7 +209,7 @@ These are TensorFlow models that could be converted to .tflite and then implemen
 
 ## Helpful links
 
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,421 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 - A tool for visualizing models.
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,422 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 - A tool for visualizing models.
 * [Material design guidelines for ML](https://material.io/collections/machine-learning/patterns-for-machine-learning-powered-features.html) - How to design machine learning powered features. A good example: [ML Kit Showcase App](https://github.com/firebase/mlkit-material-android) ⚠️ Archived.
 * [Adventures in TensorFlow Lite](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite) ⭐ 174 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-01-23 - A repository showing non-trivial conversion processes and general explorations in TensorFlow Lite.
 * [TensorFlow Lite Examples - Android](https://github.com/dailystudio/tensorflow-lite-examples-android) ⭐ 91 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-19 - A repository refactors and rewrites all the TensorFlow Lite Android examples which are included in the TensorFlow official website.
