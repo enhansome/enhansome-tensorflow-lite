@@ -15,11 +15,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T03:19:42Z",
-            "open_issues": 3130,
+            "last_commit": "2026-09-11T03:09:51Z",
+            "open_issues": 3111,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 199308,
+            "stars": 199700,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -49,7 +49,7 @@
             "open_issues": 134,
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8281,
+            "stars": 8279,
             "topics": [
               "tensorflow",
               "tensorflow-examples"
@@ -73,7 +73,7 @@
             "open_issues": 134,
             "owner": "tensorflow",
             "repo": "examples",
-            "stars": 8281,
+            "stars": 8279,
             "topics": [
               "tensorflow",
               "tensorflow-examples"
@@ -93,7 +93,7 @@
             "id": 268414080,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T17:01:21Z",
+            "last_commit": "2026-09-11T02:38:28Z",
             "open_issues": 123,
             "owner": "tensorflow",
             "repo": "tflite-support",
@@ -128,7 +128,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -152,7 +152,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -330,7 +330,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -371,11 +371,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T14:24:17Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-09-10T19:46:56Z",
+                    "open_issues": 538,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36893,
+                    "stars": 36905,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -410,11 +410,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T14:24:17Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-09-10T19:46:56Z",
+                    "open_issues": 538,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36893,
+                    "stars": 36905,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -503,11 +503,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T14:24:17Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-09-10T19:46:56Z",
+                    "open_issues": 538,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36893,
+                    "stars": 36905,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -563,11 +563,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T14:24:17Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-09-10T19:46:56Z",
+                    "open_issues": 538,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36893,
+                    "stars": 36905,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -613,7 +613,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -633,11 +633,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T03:15:30Z",
+                    "last_commit": "2026-09-10T20:22:01Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77658,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
@@ -675,11 +675,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T14:24:17Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-09-10T19:46:56Z",
+                    "open_issues": 538,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 36893,
+                    "stars": 36905,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -725,7 +725,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19797,
+                    "stars": 19798,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
@@ -746,7 +746,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -951,7 +951,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -1137,7 +1137,7 @@
                 "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281,
+                "stars": 8279,
                 "topics": [
                   "tensorflow",
                   "tensorflow-examples"
@@ -1189,7 +1189,7 @@
                 "open_issues": 151,
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26778,
+                "stars": 26777,
                 "topics": [
                   "deep-learning",
                   "deepspeech",
@@ -1312,7 +1312,7 @@
                 "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281,
+                "stars": 8279,
                 "topics": [
                   "tensorflow",
                   "tensorflow-examples"
@@ -1336,7 +1336,7 @@
                 "open_issues": 134,
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8281,
+                "stars": 8279,
                 "topics": [
                   "tensorflow",
                   "tensorflow-examples"
@@ -1397,11 +1397,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:15:30Z",
+                "last_commit": "2026-09-10T20:22:01Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1425,11 +1425,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:15:30Z",
+                "last_commit": "2026-09-10T20:22:01Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1446,11 +1446,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:15:30Z",
+                "last_commit": "2026-09-10T20:22:01Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1549,11 +1549,11 @@
             "id": 191820100,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:24:17Z",
-            "open_issues": 541,
+            "last_commit": "2026-09-10T19:46:56Z",
+            "open_issues": 538,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36893,
+            "stars": 36905,
             "topics": [
               "android",
               "audio-processing",
@@ -1615,11 +1615,11 @@
             "id": 1198539,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:45:30Z",
+            "last_commit": "2026-09-11T02:08:53Z",
             "open_issues": 18,
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33458,
+            "stars": 33465,
             "topics": [
               "ai",
               "coreml",
@@ -1802,7 +1802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T03:19:44.996Z",
+    "last_updated": "2026-09-11T03:16:02.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.",
