@@ -15,8 +15,8 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:59:17Z",
-            "open_issues": 3241,
+            "last_commit": "2026-10-03T04:18:42Z",
+            "open_issues": 3242,
             "owner": "tensorflow",
             "repo": "tensorflow",
             "stars": 200668,
@@ -256,7 +256,7 @@
                 {
                   "node_type": "item",
                   "title": "EfficientNet-Lite0 (download",
-                  "description": ")",
+                  "description": "margaretmz/icon-classifier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -362,7 +362,7 @@
                 {
                   "node_type": "item",
                   "title": "MobileNetV2 SSD (download",
-                  "description": ")",
+                  "description": "google-ai-edge/mediapipe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -401,7 +401,7 @@
                 {
                   "node_type": "item",
                   "title": "Reference",
-                  "description": null,
+                  "description": "google-ai-edge/mediapipe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -440,7 +440,7 @@
                 {
                   "node_type": "item",
                   "title": "SSD MobileNet (download)",
-                  "description": null,
+                  "description": "ariG23498/Flutter-License",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -467,7 +467,7 @@
                 {
                   "node_type": "item",
                   "title": "Flutter",
-                  "description": null,
+                  "description": "ariG23498/Flutter-License",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -554,7 +554,7 @@
                 {
                   "node_type": "item",
                   "title": "Palm detection & hand landmarks (download",
-                  "description": ")",
+                  "description": "google-ai-edge/mediapipe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -712,7 +712,7 @@
                 {
                   "node_type": "item",
                   "title": "Arbitrary image stylization",
-                  "description": null,
+                  "description": "magenta/magenta",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -785,7 +785,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepLabV3 & Style Transfer models",
-                  "description": null,
+                  "description": "margaretmz/segmentation-style-transfer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -962,7 +962,7 @@
                 {
                   "node_type": "item",
                   "title": "MoveNet Lightning (download",
-                  "description": ")",
+                  "description": "NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -983,7 +983,7 @@
                 {
                   "node_type": "item",
                   "title": "Project Repository",
-                  "description": null,
+                  "description": "NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1299,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "Dual-Encoder",
-              "description": null,
+              "description": "tensorflow/examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1802,7 +1802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:00:43.569Z",
+    "last_updated": "2026-10-03T05:10:18.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.",
