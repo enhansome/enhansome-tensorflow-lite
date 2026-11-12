@@ -15,11 +15,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T04:50:09Z",
-            "open_issues": 3426,
+            "last_commit": "2026-11-12T05:53:08Z",
+            "open_issues": 3441,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201457,
+            "stars": 201571,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -93,7 +93,7 @@
             "id": 268414080,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T20:40:10Z",
+            "last_commit": "2026-11-11T22:31:16Z",
             "open_issues": 123,
             "owner": "tensorflow",
             "repo": "tflite-support",
@@ -371,11 +371,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T03:57:31Z",
+                    "last_commit": "2026-11-11T23:34:01Z",
                     "open_issues": 270,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 37640,
+                    "stars": 37649,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -410,11 +410,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T03:57:31Z",
+                    "last_commit": "2026-11-11T23:34:01Z",
                     "open_issues": 270,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 37640,
+                    "stars": 37649,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -503,11 +503,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T03:57:31Z",
+                    "last_commit": "2026-11-11T23:34:01Z",
                     "open_issues": 270,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 37640,
+                    "stars": 37649,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -563,11 +563,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T03:57:31Z",
+                    "last_commit": "2026-11-11T23:34:01Z",
                     "open_issues": 270,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 37640,
+                    "stars": 37649,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -637,7 +637,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
@@ -675,11 +675,11 @@
                     "id": 191820100,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T03:57:31Z",
+                    "last_commit": "2026-11-11T23:34:01Z",
                     "open_issues": 270,
                     "owner": "google-ai-edge",
                     "repo": "mediapipe",
-                    "stars": 37640,
+                    "stars": 37649,
                     "topics": [
                       "android",
                       "audio-processing",
@@ -896,7 +896,7 @@
                     "open_issues": 72,
                     "owner": "SystemErrorWang",
                     "repo": "White-box-Cartoonization",
-                    "stars": 4001,
+                    "stars": 4000,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1189,7 +1189,7 @@
                 "open_issues": 151,
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26774,
+                "stars": 26776,
                 "topics": [
                   "deep-learning",
                   "deepspeech",
@@ -1401,7 +1401,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77636,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1429,7 +1429,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77636,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1450,7 +1450,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77636,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T09:51:02.837Z"
@@ -1549,11 +1549,11 @@
             "id": 191820100,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T03:57:31Z",
+            "last_commit": "2026-11-11T23:34:01Z",
             "open_issues": 270,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 37640,
+            "stars": 37649,
             "topics": [
               "android",
               "audio-processing",
@@ -1619,7 +1619,7 @@
             "open_issues": 18,
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33676,
+            "stars": 33678,
             "topics": [
               "ai",
               "coreml",
@@ -1802,7 +1802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T04:54:27.611Z",
+    "last_updated": "2026-11-12T05:56:55.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.",
@@ -1814,7 +1814,7 @@
       "open_issues": 2,
       "owner": "margaretmz",
       "repo": "awesome-tensorflow-lite",
-      "stars": 1398,
+      "stars": 1399,
       "topics": [
         "android",
         "awesome",
